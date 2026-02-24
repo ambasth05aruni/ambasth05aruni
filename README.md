@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Arunima+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;I+build+things+that+actually+work;I+turn+messy+ideas+into+products;And+my+code+rarely+crashes+(usually)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Arunima+Ambastha+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;I+build+things+that+actually+work+%E2%9A%A1;I+turn+messy+ideas+into+products+%F0%9F%9A%80;And+my+code+rarely+crashes+(usually)+%F0%9F%98%85" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -11,7 +11,7 @@
 ## 🚀 The TL;DR
 
 - 💻 **What I do:** Build full-stack web apps, real-time dashboards, and data-heavy applications.
-- 🏗️ **How I do it:** By writing clean frontend systems and backend logic that actually makes sense.
+- 🏗️ **How I do it:** Clean frontend systems and backend logic that actually makes sense.
 - 🧠 **Currently upgrading:** Large-scale system design & advanced PostgreSQL indexing.
 - 📌 **Pinned Repos:** Serious engineering only. No "10-minute calculators" here.
 
@@ -26,8 +26,12 @@
 ## 📊 Live Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ambasth05aruni&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambasth05aruni&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="165" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ambasth05aruni&theme=tokyonight&hide_border=true&background=00000000" height="165" alt="GitHub Streak" />
 </p>
 
 ---
