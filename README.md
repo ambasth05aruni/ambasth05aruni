@@ -1,26 +1,20 @@
-/**
- * brain.ts
- *
- * ⚠️ Warning:
- * This file changes frequently.
- * New ideas are added without notice.
- */
+### 🎧 Hey, nice to have you here!!
 
-const brain = {
-  currently: "building things i wish existed",
 
-  mood: "🌸 optimistic",
+https://github.com/user-attachments/assets/8ab4cd95-f9f0-431d-9198-8c4e079ab181
 
-  openTabs: 37,
 
-  sideQuest:
-    "making software feel a little more magical",
+I build voice agents. Introducing myself in text felt wrong.
 
-  latestThought:
-    "this definitely doesn't need to become a side project... right?",
+---
 
-  philosophy:
-    "if it makes someone smile, it's worth building."
-};
+Software engineer. Real-time conversational AI.
 
-export default brain;
+A patient calls. Something answers. The pause before it speaks
+decides whether they trust it. That pause is my job.
+
+**Stack** &nbsp;`Python` `FastAPI` `LangGraph` `WebRTC` `WebSockets` `TypeScript` `Next.js`
+
+**Now** &nbsp;Building **HeyAlpha** @ Alphadroid — a healthcare voice agent.
+Multiple agents, one shared state, audio streaming both ways, failures
+that degrade instead of going silent.
