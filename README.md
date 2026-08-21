@@ -1,20 +1,25 @@
-### 🎧 Hey, nice to have you here!!
+# 👋 Hey, nice to have you here!
 
+**Software Engineer · Real-time Conversational AI · Voice Agents**
 
-https://github.com/user-attachments/assets/8ab4cd95-f9f0-431d-9198-8c4e079ab181
+I build systems that **listen, think, and respond in real time.**
 
+A patient calls. Something answers.
+The pause before it speaks decides whether they trust it.
+**That pause is my job.**
 
-I build voice agents. Introducing myself in text felt wrong.
+### 🧠 Stack
 
----
+`Python` `FastAPI` `LangGraph` `WebRTC` `WebSockets` `TypeScript` `Next.js`
 
-Software engineer. Real-time conversational AI.
+### 🚀 Now
 
-A patient calls. Something answers. The pause before it speaks
-decides whether they trust it. That pause is my job.
+Building **HeyAlpha @ Alphadroid** — a healthcare voice agent designed around real-time conversations.
 
-**Stack** &nbsp;`Python` `FastAPI` `LangGraph` `WebRTC` `WebSockets` `TypeScript` `Next.js`
+* 🤖 Multiple specialized agents
+* 🧠 Shared state across conversations
+* 🎙️ Bidirectional audio streaming
+* ⚡ Low-latency real-time communication
+* 🛡️ Failure-tolerant workflows that degrade gracefully instead of going silent
 
-**Now** &nbsp;Building **HeyAlpha** @ Alphadroid — a healthcare voice agent.
-Multiple agents, one shared state, audio streaming both ways, failures
-that degrade instead of going silent.
+**I like building software where milliseconds, state, and reliability actually matter.**
