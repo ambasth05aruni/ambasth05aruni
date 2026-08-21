@@ -10,7 +10,7 @@ The pause before it speaks decides whether they trust it.
 
 ### 🧠 Stack
 
-`Python` `FastAPI` `LangGraph` `WebRTC` `WebSockets` `TypeScript` `Next.js`
+`Python` `FastAPI` `LangGraph` `WebRTC` `WebSockets` `TypeScript` `Next.js` `React.js`
 
 ### 🚀 Now
 
